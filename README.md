@@ -1,4 +1,10 @@
-# Artificial-Intelligence
+# ◄ Artificial-Intelligence ►
+
+
+
+
+
+## Table Of Contents
 
 - [Project 1 - Calculator](https://github.com/moldoveanu-iustin/Artificial-Intelligence/tree/Project-1-calculator)
 - [Project 2 - Search](https://github.com/moldoveanu-iustin/Artificial-Intelligence/tree/Project-2-search)
