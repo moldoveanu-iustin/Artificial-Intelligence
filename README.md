@@ -1,7 +1,7 @@
 # ◄ Artificial-Intelligence ►
 
 
-
+Artificial Intelligence projects (search algorithms, heuristics, basic ML concepts) implemented during university coursework.
 
 
 ## Table Of Contents
