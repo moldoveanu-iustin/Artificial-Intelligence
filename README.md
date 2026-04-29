@@ -1,9 +1,6 @@
 # ◄ Artificial-Intelligence ►
 
 
-Artificial Intelligence projects (search algorithms, heuristics, basic ML concepts) implemented during university coursework.
-
-
 ## Table Of Contents
 
 - [Project 1 - Calculator](https://github.com/moldoveanu-iustin/Artificial-Intelligence/tree/Project-1-calculator)
